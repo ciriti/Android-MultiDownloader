@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiFilesDownloader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_apk_1">Download Apk 1</string>
+    <string name="download_apk_2">Download Apk 2</string>
+    <string name="download_apk_3">Download Apk 3</string>
+    
+    <string name="sort_name_asc">Name Asc</string>
+    <string name="sort_name_desc">Name Desc</string>
+    <string name="name_app">Name App</string>
+    <string name="download">Download</string>
+    <string name="stop">Stop</string>
+
+</resources>
